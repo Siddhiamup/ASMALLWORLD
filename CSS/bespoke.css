@@ -1,0 +1,16 @@
+.btn-custom {
+    background-color: #001f2b;
+    color: white;
+    border-radius: 50px;
+    padding: 12px 28px;
+    font-size: 1.1rem;
+}
+
+.btn-custom:hover {
+    background-color: #00394d;
+    color: white;
+}
+
+.section-large {
+    font-size: 1.25rem;
+}
